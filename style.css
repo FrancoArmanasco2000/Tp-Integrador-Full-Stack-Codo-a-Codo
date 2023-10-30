@@ -53,6 +53,7 @@
 }
 
 .bsas{
+    object-fit: cover;
     filter: brightness(0.4);
 }
 
@@ -170,6 +171,7 @@
 }
 
 .paisaje{
+    object-fit: cover;
     width: 54%;
     height: 100%;
 }
